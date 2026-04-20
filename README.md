@@ -119,6 +119,6 @@ Integrating mobile applications
 Adding GPS or indoor positioning systems
 
 Conclusion
-Using a quadruped robot for food delivery represents an innovative step toward automation in service industries. It combines robotics, artificial intelligence,  ترجمليand real-world problem solving to create a system that is flexible, efficient, and adaptable to complex environments. 
+Using a quadruped robot for food delivery represents an innovative step toward automation in service industries. It combines robotics, artificial intelligence,  real-world problem solving to create a system that is flexible, efficient, and adaptable to complex environments. 
 
 
